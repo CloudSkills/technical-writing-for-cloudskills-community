@@ -7,7 +7,7 @@ After your post has been published on CloudSkills.io , you'll want to upload it 
 
 Dev.to is another blogging platform that we create content on, in addition to CloudSkills.io. Dev.to has grown from a platform predominantly used for developers to collaborate and network on. The platform has organically grown to include subjects such as DevOps, IaC and Cloud Native, all of which are core CloudSkills subject areas.
 
-## Step 1- Create a dev.to account and join the CloudSkills org
+## Step 1 - Create a dev.to account and join the CloudSkills org
 
 To get started, set up an account at [dev.to](https://dev.to/) if you don't already have one.  Next, we will add your account to the CloudSkills.io organization, you need to message Mike to get the organisation secret. Navigate to the [dev.to organization settings](https://dev.to/settings/organization) and paste in the secret obtained from Mike.
 
@@ -57,7 +57,7 @@ To link a heading to the table, format the heading with the tag like so:
 ## Prerequisites <a name="Prerequisites"></a>
 ```
 
-## Step 5 - Publish
+## Step 6 - Publish
 
 Your content has already been reviewed and published on CloudSkills.io, so once you are ready to publish select **Publish**:
 
@@ -65,6 +65,6 @@ Your content has already been reviewed and published on CloudSkills.io, so once 
 
 You've now successfully published a blog post on dev.to. Just sit back and watch those Hearts and Unicorns pour in!
 
-## Step 6 - Follow CloudSkills on dev.to
+## Step 7 - Follow CloudSkills on dev.to
 
 Mike will put a shout out about new content for CloudSkills.io blog on Slack for contributors to tweet and like. To increase the reach for content on dev.to it's customary for contributors to follow each other and the CloudSkills organisation on dev.to. This is a simple way to see when others convert and post their content, so you can drop them a heart or two.
