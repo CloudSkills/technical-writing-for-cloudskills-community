@@ -56,7 +56,7 @@ Once a post is published, it is customary for CloudSkills community contributors
 
 ### Step 7 - Convert your content for [dev.to](https://dev.to/)<a name="Step7"></a>
 
-Once the article goes live on CloudSkills.io. You will want to upload the post to dev.to. Follow the instructions on [how to upload your post to the dev.to](/convert-blog-for-devto.md) platform.
+Once the article goes live on CloudSkills.io. You will want to upload the post to dev.to. Follow the instructions on [how to upload your post to the dev.to](/step8-convert-blog-for-devto.md) platform.
 
 ### Step 8 - What if it's a blog series
 
