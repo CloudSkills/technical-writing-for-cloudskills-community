@@ -35,7 +35,17 @@ Each image in your blog post must be imported to the dev.to image store. To impo
 
 ![mdimage](/Images/mdimage.PNG)
 
-## Step 5 - Preview, save draft and table of contents
+## Step 5 - Tag your post
+
+Dev.to allows four tags for each blog so choose wisely if it's across multiple subjects. If you are struggling to choose, what is the audience you are trying engage with?
+
+Some tags have rules, most of which are along the lines of "Be respectful". Other tags have full outlines for their rules, to check this hit **View Rules** next to the tag:
+
+![tagrules](/Images/devto-step5-tagging.png)
+
+
+
+## Step 6 - Preview, save draft and table of contents
 
 At the bottom is the **Save Draft** button, save often. Also use the **Preview** button to get a view of what the post will look like. You can add a fancy table of contents to your post that looks like the following:
 
@@ -57,7 +67,7 @@ To link a heading to the table, format the heading with the tag like so:
 ## Prerequisites <a name="Prerequisites"></a>
 ```
 
-## Step 6 - Publish
+## Step 7 - Publish
 
 Your content has already been reviewed and published on CloudSkills.io, so once you are ready to publish select **Publish**:
 
@@ -65,6 +75,6 @@ Your content has already been reviewed and published on CloudSkills.io, so once 
 
 You've now successfully published a blog post on dev.to. Just sit back and watch those Hearts and Unicorns pour in!
 
-## Step 7 - Follow CloudSkills on dev.to
+## Step 8 - Follow CloudSkills on dev.to
 
 Mike will put a shout out about new content for CloudSkills.io blog on Slack for contributors to tweet and like. To increase the reach for content on dev.to it's customary for contributors to follow each other and the CloudSkills organisation on dev.to. This is a simple way to see when others convert and post their content, so you can drop them a heart or two.
