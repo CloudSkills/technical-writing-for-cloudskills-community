@@ -8,13 +8,11 @@ In this guide, you will find information on how to get started blogging for Clou
 
 All blog contributions should meet the following requirements:
 
-- Minimum of 1000 words. 1500-2000 is preferable
+- Minimum of 1000 words. 1500-2000 is preferable.
 
-- Contributions must be written in Markdown
+- Contributions must be written in Markdown.
 
 - Content can be anything cloud-related, however, no technologies like Office365.
-
-//TODO - Flesh this out based on what Mike said on the call
 
 Compensation will be discussed after the first post is submitted. The first post is seen as a "trial". Instead of a fixed set price for blog posts, compensation is based on the level of writing of each author and will start after the first initial blog post.
 
@@ -58,7 +56,7 @@ Once a post is published, it is customary for CloudSkills community contributors
 
 ### Step 7 - Convert your content for [dev.to](https://dev.to/)<a name="Step7"></a>
 
-Once the article goes live on CloudSkills.io. You will want to upload the post to dev.to. Follow the instructions on [how to upload your post to the dev.to](convert-blog-for-devto.md) platform.
+Once the article goes live on CloudSkills.io. You will want to upload the post to dev.to. Follow the instructions on [how to upload your post to the dev.to](/convert-blog-for-devto.md) platform.
 
 ### Step 8 - What if it's a blog series
 
@@ -66,7 +64,7 @@ Each part of the series will be published separately as this should increase the
 
 If you choose to push each part separately, please keep the content in one repo, but split out the images and markdown files between the series parts. For example:
 
-![splitseriesparts](images/step8-2-split-out-series-parts.png)
+![splitseriesparts](/images/step8-2-split-out-series-parts.png)
 
 This will make it easier to convert into a blog at CloudSkills.io.
 
@@ -87,16 +85,16 @@ Your blog post will be checked for grammatical errors, but it's good to run a fe
 ## FAQ
 
 **What if I'm not very skilled at writing?**
-
 Writing is a skill, and everyone starts at the beginning. Don't let it hold you back. Your posts will be reviewed by someone for grammatical errors and feed back. If you're still unsure about your writing ability. Reach out on the #builders channel in slack and see if anyone would like to Co-Author a blog post with you to help get you started.
 
 **I just started my Azure learning journey, should I wait until I ramp up on Azure to blog?**
-
 NO! Everyone, no matter what level they are at, has something valuable to share. No matter where you are at skill wise there are thousands of people that are at a lower level and could benefit from your point of view. Blogging is also a great way to increase knowledge of a subject and is an excellent form of learning.
 
  **I hate writing, is there something else I can do?**
 There are other opportunities to contribute to the CloudSkills community other than writing. Reach out to Mike for other area's you may be able to help with. But it is highly encouraged to try writing a blog post at least once if you haven't had the experience yet. You might end up enjoying it :-).
 
 **I'm having trouble finding ideas to blog about**
-
 Take some time to think about what you can write about that would be valuable for someone else to know. Brainstorm and write your ideas down. If you're still having trouble, reach out on the #builders channel in slack and explain what area you would like to write about and if anyone has ideas.
+
+**I've been reworking and reworking, how do I get out of this loop**
+To quote Jeffrey Snovar - *To ship is to choose*. Even if your content isn't perfect in your eyes, it's important to get content out there. Once you do this and repeat, and repeat again, you may find you are over thinking it. If you are still unsure, slack and the review process are there to help you out!

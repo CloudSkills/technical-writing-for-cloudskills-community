@@ -1,7 +1,9 @@
 
-# Introduction to dev.to
+# Converting a blog post for dev.to
 
-After your post has been published on CloudSkills.io , you'll want to upload it to dev.to as well.
+After your post has been published on CloudSkills.io , you'll want to upload it to dev.to as well. This will increase the reach of the post
+
+## Introduction
 
 Dev.to is another blogging platform that we create content on, in addition to CloudSkills.io. Dev.to has grown from a platform predominantly used for developers to collaborate and network on. The platform has organically grown to include subjects such as DevOps, IaC and Cloud Native, all of which are core CloudSkills subject areas.
 
@@ -62,3 +64,7 @@ Your content has already been reviewed and published on CloudSkills.io, so once 
 ![toolbar](/Images/toolbar.PNG)
 
 You've now successfully published a blog post on dev.to. Just sit back and watch those Hearts and Unicorns pour in!
+
+## Step 6 - Follow CloudSkills on dev.to
+
+Mike will put a shout out about new content for CloudSkills.io blog on Slack for contributors to tweet and like. To increase the reach for content on dev.to it's customary for contributors to follow each other and the CloudSkills organisation on dev.to. This is a simple way to see when others convert and post their content, so you can drop them a heart or two.
