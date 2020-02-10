@@ -64,7 +64,7 @@ Each part of the series will be published separately as this should increase the
 
 If you choose to push each part separately, please keep the content in one repo, but split out the images and markdown files between the series parts. For example:
 
-![splitseriesparts](/images/step8-2-split-out-series-parts.png)
+![splitseriesparts](/Images/step8-2-split-out-series-parts.png)
 
 This will make it easier to convert into a blog at CloudSkills.io.
 
