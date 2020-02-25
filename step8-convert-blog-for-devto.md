@@ -21,7 +21,7 @@ Select the dropdown on **Publish under an organization** and select **CloudSkill
 
 ## Step 3 - Set the canonical URL
 
-Select the **"..."** icon in the upper right corner:
+Select the **"..."** elipses to the right of the tag bar:
 
 ![organization](/Images/organization.PNG)
 
