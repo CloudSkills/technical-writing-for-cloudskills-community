@@ -36,7 +36,7 @@ Tip - number your images by step and position within the step, for example "step
 
 ### Step 3 - Email Mike for a GitHub invite and push up your repo
 
-The CloudSkills Community content is held alongside this repo on the [CloudSkills GitHub Org](https://github.com/CloudSkills). You'll need to ask Mike for an invite before you can push up your repo.
+The CloudSkills Community content is held alongside this repo on the [CloudSkills GitHub Org](https://github.com/CloudSkills). You'll need to ask Mike for an invite before you can push up your repo. Once you've accepted the invite, create a new repo in the CloudSkills Org and push it up.
 
 ### Step 4 - Content review
 
