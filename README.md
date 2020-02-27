@@ -28,7 +28,7 @@ Once Mike has OK'd the content, you're good to go with pulling the full post tog
 
 ### Step 2 - Grab the markdown template and create your content
 
-For now, we are following the template outline for blog formatting from Digital Ocean. In the future, we will make our own format and template, but for now, reference Digital Ocean's [Technical Writing Guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines) and [Technical Best Practices](https://www.digitalocean.com/community/tutorials/technical-recommendations-and-best-practices-for-digitalocean-s-tutorials).
+For now, we are following the template outline for blog formatting from Digital Ocean. In the future, we will make our own format and template, but for now, reference Digital Ocean's [Technical Writing Guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines) and [Technical Best Practices](https://www.digitalocean.com/community/tutorials/technical-recommendations-and-best-practices-for-digitalocean-s-tutorials). Within the Digital Ocean Technical Writing Guidelines is a link to their [Markdown Template](https://github.com/do-community/do-article-templates), copy the template and use it as your base.
 
 Checkout [Useful Tools](#UsefulTools) at the bottom of these guidelines for VSCode extensions to help with Markdown and online writing quality checkers.
 
