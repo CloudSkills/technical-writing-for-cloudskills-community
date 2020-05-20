@@ -34,15 +34,38 @@ Checkout [Useful Tools](#UsefulTools) at the bottom of these guidelines for VSCo
 
 Tip - number your images by step and position within the step, for example "step1-1-azure-devops-pipeline.png". This should help a part of make [Step 7](#Step7) a little easier until we automate it.
 
-### Step 3 - Email Mike for a GitHub invite and push up your repo
+### Step 3 - Email Mike for a GitHub invite and create your branch
 
-The CloudSkills Community content is held alongside this repo on the [CloudSkills GitHub Org](https://github.com/CloudSkills). You'll need to ask Mike for an invite before you can push up your repo. Once you've accepted the invite, create a new repo in the CloudSkills Org and push it up.
+The CloudSkills Community content is held in the [posts](https://github.com/CloudSkills/posts) repo which sits alongside this repo on the [CloudSkills GitHub Org](https://github.com/CloudSkills). You'll need to ask Mike for an invite before you can create your branch. Once you've accepted the invite, clone your repo and create a branch, use a standard branch naming convention such as:
 
-### Step 4 - Content review
+``` bash
+git branch /users/stevensnicole/gitdevops-getting-started
+git checkout /users/stevensnicole/gitdevops-getting-started
+```
 
-Once your repo is in the GitHub org, drop Mike a message. The submitted content is then reviewed by other community contributors for grammatical errors and technical clarity.
+If this is your first blog, you'll need to create a folder under posts to group all of your content, this folder should be your github username or your name. Under your user folder, each post needs it's own folder, even if it's a multi-part blog. An example of how this could look over time:
 
-This is another great way to get involved in contributing to the community blogs. Reviewing opportunities from a technical standpoint or for content clarity are available. If you are interested in reviewing, drop Mike a message.
+```bash
+/posts
+    /stevensnicole
+        /git-1-getting-started-with-git
+        /git-2-working-with-pull-requests-azuread
+        /git-3-creating-a-build-pipeline-aspnetcode
+        /docker-java-azure-sql-webapp
+        /git-4-merging
+```
+
+Once your post is written and commited locally, push your branch up to the posts repo:
+
+``` bash
+git push origin /users/stevensnicole/gitdevops-getting-started
+```
+
+### Step 4 - Pull request and content review
+
+Create a pull request for your branch in GitHub, this will trigger the review process. The submitted content is reviewed by other community contributors for grammatical errors and technical clarity. A standard PR process is followed, required changes are passed back as PR comments to be reviewed and updated by the author. Once the review passed, the PR is merged and the blog is ready to post.
+
+This is another great way to get involved in contributing to the community blogs. Reviewing opportunities from a technical standpoint or for content clarity are available. If you are interested in reviewing, drop Mike a message in Slack.
 
 ### Step 5 - Headshot and biography
 
