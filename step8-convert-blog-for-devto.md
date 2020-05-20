@@ -21,7 +21,7 @@ Select the dropdown on **Publish under an organization** and select **CloudSkill
 
 ## Step 3 - Set the canonical URL
 
-Select the **"..."** elipses to the right of the tag bar:
+Select the **"..."** ellipses to the right of the tag bar:
 
 ![organization](/Images/organization.PNG)
 
@@ -51,7 +51,7 @@ At the bottom is the **Save Draft** button, save often. Also use the **Preview**
 
 ![tableofcontents](/Images/tableofcontents.PNG)
 
-Just include the following syntax for the table formating:
+Just include the following syntax for the table formatting:
 ```
 # Table Of Contents
 
