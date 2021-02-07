@@ -14,17 +14,19 @@ All blog contributions should meet the following requirements:
 
 - Content can be anything cloud-related, however, no technologies like Office365.
 
-Compensation will be discussed after the first post is submitted. The first post is seen as a "trial". Instead of a fixed set price for blog posts, compensation is based on the level of writing of each author and will start after the first initial blog post.
+Compensation will be discussed after the first blog post. The first blog post is a trial for CloudSkills to see your writing style. If anything needs to be changed or altered, we'll let you know and give you tops.
+
+After that, all blog posts are $100.00 per post.
 
 ## Process
 
 It's your first time writing a blog for CloudSkills.io? We've set out a simple process for all contributors to follow. This is to ensure content is on the right topics, is high quality and is consistent in how it is published.
 
-### Step 1 - Email Mike a blog summary
+### Step 1 - Add in a blog summary in Trello
 
-All content for CloudSkills.io runs through Mike, if you are thinking along the [Blogging Requirements](#BloggingReqs) guidelines above for content, you should be pretty much there. Put a summary together for your idea and email it over to Mike. If you're not sure, email it anyway or put it up for discussion in Slack. Another community member can likely help with finding a slant that fits the blogging requirements.
+All content for CloudSkills.io runs through Mike and Mike, if you are thinking along the [Blogging Requirements](#BloggingReqs) guidelines above for content, you should be pretty much there.
 
-Once Mike has OK'd the content, you're good to go with pulling the full post together.
+Put the idea in Trello, which you should have access to if you're in the #Authors Slack channel.
 
 ### Step 2 - Grab the markdown template and create your content
 
@@ -34,7 +36,7 @@ Checkout [Useful Tools](#UsefulTools) at the bottom of these guidelines for VSCo
 
 Tip - number your images by step and position within the step, for example "step1-1-azure-devops-pipeline.png". This should help a part of make [Step 7](#Step7) a little easier until we automate it.
 
-### Step 3 - Email Mike for a GitHub invite and create your branch
+### Step 3 - Email Mike Levan for a GitHub invite and create your branch
 
 The CloudSkills Community content is held in the [posts](https://github.com/CloudSkills/posts) repo which sits alongside this repo on the [CloudSkills GitHub Org](https://github.com/CloudSkills). You'll need to ask Mike for an invite before you can create your branch. Once you've accepted the invite, clone your repo and create a branch, use a standard branch naming convention such as:
 
