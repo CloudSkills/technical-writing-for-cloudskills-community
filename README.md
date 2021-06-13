@@ -22,11 +22,11 @@ After that, all blog posts are $100.00 per post.
 
 It's your first time writing a blog for CloudSkills.io? We've set out a simple process for all contributors to follow. This is to ensure content is on the right topics, is high quality and is consistent in how it is published.
 
-### Step 1 - Add in a blog summary in Trello
+### Step 1 - Email A Blog Summary to Mike and Michael
 
-All content for CloudSkills.io runs through Mike and Mike, if you are thinking along the [Blogging Requirements](#BloggingReqs) guidelines above for content, you should be pretty much there.
+All content for CloudSkills.io runs through Mike and Michael, if you are thinking along the [Blogging Requirements](#BloggingReqs) guidelines above for content, you should be pretty much there.
 
-Put the idea in Trello, which you should have access to if you're in the #Authors Slack channel.
+Put the idea in an email and send it over. 3-4 lines on the idea will work.
 
 ### Step 2 - Grab the markdown template and create your content
 
